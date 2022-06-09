@@ -1,0 +1,358 @@
+@media (max-width: 1399.98px) {
+  .control-btns-container {
+    transform: translateY(-25px);
+  }
+
+  .hangman-container .hangman-game-box #popup-info,
+  .hangman-container .hangman-game-box #popup-alert {
+    transform: translateY(30px);
+  }
+}
+
+@media (max-width: 1199.98px) {
+  .control-btns-container {
+    transform: translateY(-310px) !important;
+  }
+}
+
+@media (max-width: 1024.98px) and (max-height: 1366.98px) {
+  .control-btns-container {
+    transform: translateY(75px);
+  }
+
+  .hangman-container .hangman-game-box #popup-info,
+  .hangman-container .hangman-game-box #popup-alert {
+    transform: translateY(310px);
+  }
+}
+
+@media (max-width: 1024.98px) and (max-height: 600.98px) {
+  .control-btns-container {
+    transform: translateY(65px) !important;
+  }
+
+  .hangman-container .hangman-game-box #popup-info,
+  .hangman-container .hangman-game-box #popup-alert {
+    transform: translateY(-75px);
+  }
+}
+
+@media (max-width: 991.98px) {
+  .control-btns-container {
+    transform: translateY(-320px) !important;
+  }
+
+  .hangman-container .hangman-game-box #popup-info,
+  .hangman-container .hangman-game-box #popup-alert {
+    transform: translateY(310px);
+  }
+}
+
+@media (max-width: 850.98px) {
+  .control-btns-container {
+    transform: translateY(-220px) !important;
+  }
+
+  .hangman-container .hangman-game-box #popup-info,
+  .hangman-container .hangman-game-box #popup-alert {
+    transform: translateY(215px);
+  }
+}
+
+@media (max-width: 768.98px) {
+  .control-btns-container {
+    transform: translateY(-135px) translateX(-5px) scale(0.95) !important;
+  }
+
+  .hangman-container .hangman-game-box #popup-info,
+  .hangman-container .hangman-game-box #popup-alert {
+    transform: translateY(140px);
+  }
+
+  .note1 .btn-shadow-drop,
+  .note2 .btn-shadow-drop,
+  .note3 .btn-shadow-drop,
+  .note4 .btn-shadow-drop,
+  .note5 .btn-shadow-drop {
+    transform: translateX(-15px);
+  }
+
+  .letters-box1,
+  .letters-box2,
+  .letters-box3,
+  .letters-box4,
+  .letters-box5 {
+    transform: translateY(-20px) scale(0.85);
+  }
+}
+
+@media (max-width: 575.98px) {
+  .control-btns-container {
+    flex-direction: column;
+    transform: translate(95px, -50px) !important;
+  }
+
+  .note1 .btn-shadow-drop,
+  .note2 .btn-shadow-drop,
+  .note3 .btn-shadow-drop,
+  .note4 .btn-shadow-drop,
+  .note5 .btn-shadow-drop {
+    transform: translateX(-175px);
+  }
+
+  .control-btns-container button {
+    width: 30px;
+  }
+
+  .hangman-container .hangman-game-box #popup-info,
+  .hangman-container .hangman-game-box #popup-alert {
+    transform: translateY(-15px);
+  }
+
+  .note1 .msg1,
+  .note2 .msg2,
+  .note3 .msg3,
+  .note4 .msg4,
+  .note5 .msg5 {
+    font-size: 1rem !important;
+  }
+}
+
+@media (max-width: 420.98px) {
+  .control-btns-container {
+    flex-direction: column;
+    transform: translate(15px, -135px) !important;
+  }
+
+  .hangman-container .hangman-game-box #popup-info,
+  .hangman-container .hangman-game-box #popup-alert {
+    transform: translateY(75px);
+  }
+
+  .note1 .btn-shadow-drop,
+  .note2 .btn-shadow-drop,
+  .note3 .btn-shadow-drop,
+  .note4 .btn-shadow-drop,
+  .note5 .btn-shadow-drop {
+    transform: translateX(-265px);
+  }
+
+  .letters-box1,
+  .letters-box2,
+  .letters-box3,
+  .letters-box4,
+  .letters-box5 {
+    transform: translateY(-50px) scale(0.7);
+  }
+
+  .word-box1 {
+    transform: translateX(-65px) scale(0.6);
+    width: 300px;
+  }
+
+  .note1 .msg1,
+  .note2 .msg2,
+  .note3 .msg3,
+  .note4 .msg4,
+  .note5 .msg5 {
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 420.98px) and (max-height: 823.98px) {
+  .control-btns-container {
+    transform: translate(30px, -95px) !important;
+  }
+
+  .hangman-container .hangman-game-box #popup-info,
+  .hangman-container .hangman-game-box #popup-alert {
+    transform: translateY(40px);
+  }
+
+  .note1 .msg1,
+  .note2 .msg2,
+  .note3 .msg3,
+  .note4 .msg4,
+  .note5 .msg5 {
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 420.98px) and (max-height: 736.98px) {
+  .hangman-container .hangman-game-box #popup-info,
+  .hangman-container .hangman-game-box #popup-alert {
+    transform: translateY(-5px);
+  }
+
+  .note1 .msg1,
+  .note2 .msg2,
+  .note3 .msg3,
+  .note4 .msg4,
+  .note5 .msg5 {
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 415.98px) {
+  .control-btns-container {
+    transform: translate(30px, -145px) !important;
+  }
+  .hangman-container .hangman-game-box #popup-info,
+  .hangman-container .hangman-game-box #popup-alert {
+    transform: translateY(75px);
+  }
+}
+
+@media (max-width: 395.98px) {
+  .control-btns-container {
+    transform: translate(25px, -110px) !important;
+  }
+
+  .hangman-container .hangman-game-box #popup-info,
+  .hangman-container .hangman-game-box #popup-alert {
+    transform: translateY(50px);
+  }
+}
+
+@media (max-width: 375.98px) {
+  .control-btns-container {
+    transform: translate(15px, -25px) !important;
+  }
+
+  .hangman-container .hangman-game-box #popup-info,
+  .hangman-container .hangman-game-box #popup-alert {
+    transform: translateY(-40px);
+  }
+}
+
+@media (max-width: 360.98px) {
+  .control-btns-container {
+    transform: translate(10px, -60px) !important;
+  }
+
+  .hangman-container .hangman-game-box #popup-info,
+  .hangman-container .hangman-game-box #popup-alert {
+    transform: translateY(0);
+  }
+
+  .letters-box1,
+  .letters-box2,
+  .letters-box3,
+  .letters-box4,
+  .letters-box5 {
+    transform: translateY(-75px) scale(0.55);
+  }
+
+  .word-box1 {
+    transform: translateX(-60px) scale(0.6);
+    width: 300px;
+  }
+}
+
+@media (max-width: 320.98px) {
+  .control-btns-container {
+    transform: translate(-22px, 40px) scale(0.8) !important;
+  }
+
+  .hangman-container .hangman-game-box #popup-info,
+  .hangman-container .hangman-game-box #popup-alert {
+    transform: translateY(-90px);
+  }
+
+  .word-box1 {
+    width: 280px;
+  }
+
+  .note1 .msg1,
+  .note2 .msg2,
+  .note3 .msg3,
+  .note4 .msg4,
+  .note5 .msg5 {
+    font-size: 0.8rem;
+    transform: translateX(25px);
+  }
+
+  .note1 .btn-shadow-drop,
+  .note2 .btn-shadow-drop,
+  .note3 .btn-shadow-drop,
+  .note4 .btn-shadow-drop,
+  .note5 .btn-shadow-drop {
+    transform: translateX(-330px) !important;
+  }
+
+  .hangman-game-box .hangman-intro .game-topic {
+    font-size: 1.3rem;
+  }
+
+  .select-option .choose-topic {
+    font-size: 1.1rem;
+  }
+}
+
+@media (max-width: 280.98px) {
+  .start-btn-container {
+    transform: translateX(-25px);
+  }
+
+  .control-btns-container {
+    transform: translate(-45px, 5px) scale(0.8) !important;
+  }
+
+  .hangman-container .hangman-game-box #popup-info,
+  .hangman-container .hangman-game-box #popup-alert {
+    transform: translateY(-45px);
+  }
+
+  .select-option .choose-topic {
+    transform: translateX(30px);
+  }
+
+  .letters-box1,
+  .letters-box2,
+  .letters-box3,
+  .letters-box4,
+  .letters-box5 {
+    transform: translateY(-125px) scale(0.55);
+  }
+
+  .hangman1,
+  .hangman2,
+  .hangman3,
+  .hangman4,
+  .hangman5 {
+    transform: translateX(-60px) scale(0.7);
+  }
+
+  .word-box1 {
+    width: 250px;
+  }
+
+  .note1 .btn-shadow-drop,
+  .note2 .btn-shadow-drop,
+  .note3 .btn-shadow-drop,
+  .note4 .btn-shadow-drop,
+  .note5 .btn-shadow-drop {
+    transform: translateX(-340px) scale(0.75) !important;
+  }
+
+  .hangman-game-box .hangman-intro .game-topic {
+    font-size: 1.2rem;
+  }
+
+  .select-option #outset-btn,
+  #quit-btn {
+    transform: translateX(-15px) scale(0.8);
+  }
+
+  .word-box1 {
+    width: 260px;
+  }
+
+  .note1 .msg1,
+  .note2 .msg2,
+  .note3 .msg3,
+  .note4 .msg4,
+  .note5 .msg5 {
+    font-size: 0.65rem !important;
+  }
+}

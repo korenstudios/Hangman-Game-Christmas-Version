@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Lobster&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Finger+Paint&display=swap");
+
+:root {
+  --displayFont: "Lobster", cursive;
+  --gameFont: "Finger Paint", cursive;
+  --basicColor: snow;
+  --mainColor1: red;
+  --mainColor2: green;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
